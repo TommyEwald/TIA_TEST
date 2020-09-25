@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2020-09-24T12:38:33.2940148Z</Created>
+    <Created>2020-09-24T12:57:39.7820408Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -51,51 +51,5 @@
     <AttributeList>
       <Name>Standard-Variablentabelle</Name>
     </AttributeList>
-    <ObjectList>
-      <SW.Tags.PlcTag ID="1" CompositionName="Tags">
-        <AttributeList>
-          <DataTypeName>Bool</DataTypeName>
-          <ExternalAccessible>true</ExternalAccessible>
-          <ExternalVisible>true</ExternalVisible>
-          <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I0.0</LogicalAddress>
-          <Name>bool1</Name>
-        </AttributeList>
-        <ObjectList>
-          <MultilingualText ID="2" CompositionName="Comment">
-            <ObjectList>
-              <MultilingualTextItem ID="3" CompositionName="Items">
-                <AttributeList>
-                  <Culture>de-DE</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-            </ObjectList>
-          </MultilingualText>
-        </ObjectList>
-      </SW.Tags.PlcTag>
-      <SW.Tags.PlcTag ID="4" CompositionName="Tags">
-        <AttributeList>
-          <DataTypeName>Bool</DataTypeName>
-          <ExternalAccessible>true</ExternalAccessible>
-          <ExternalVisible>true</ExternalVisible>
-          <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I0.1</LogicalAddress>
-          <Name>bool2</Name>
-        </AttributeList>
-        <ObjectList>
-          <MultilingualText ID="5" CompositionName="Comment">
-            <ObjectList>
-              <MultilingualTextItem ID="6" CompositionName="Items">
-                <AttributeList>
-                  <Culture>de-DE</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-            </ObjectList>
-          </MultilingualText>
-        </ObjectList>
-      </SW.Tags.PlcTag>
-    </ObjectList>
   </SW.Tags.PlcTagTable>
 </Document>

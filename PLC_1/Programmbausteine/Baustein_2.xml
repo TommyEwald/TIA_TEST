@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2020-09-25T04:55:10.4221837Z</Created>
+    <Created>2020-09-25T05:02:54.9394619Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -93,9 +93,9 @@
           <NetworkSource><StatementList xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/StatementList/v4">
   <StlStatement UId="21">
     <StlToken Text="A" />
-    <Access Scope="GlobalVariable">
+    <Access Scope="LocalVariable">
       <Symbol>
-        <Component Name="bool1" />
+        <Component Name="input2" />
       </Symbol>
     </Access>
   </StlStatement>

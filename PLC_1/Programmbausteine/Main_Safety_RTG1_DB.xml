@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2020-09-24T12:57:40.5942328Z</Created>
+    <Created>2020-09-25T04:57:21.1312305Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -75,13 +75,25 @@
               <Text />
             </AttributeList>
           </MultilingualTextItem>
+          <MultilingualTextItem ID="3" CompositionName="Items">
+            <AttributeList>
+              <Culture>en-US</Culture>
+              <Text />
+            </AttributeList>
+          </MultilingualTextItem>
         </ObjectList>
       </MultilingualText>
-      <MultilingualText ID="3" CompositionName="Title">
+      <MultilingualText ID="4" CompositionName="Title">
         <ObjectList>
-          <MultilingualTextItem ID="4" CompositionName="Items">
+          <MultilingualTextItem ID="5" CompositionName="Items">
             <AttributeList>
               <Culture>de-DE</Culture>
+              <Text />
+            </AttributeList>
+          </MultilingualTextItem>
+          <MultilingualTextItem ID="6" CompositionName="Items">
+            <AttributeList>
+              <Culture>en-US</Culture>
               <Text />
             </AttributeList>
           </MultilingualTextItem>
